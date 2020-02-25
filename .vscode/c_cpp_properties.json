@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Teste",
+            "includePath": [
+                "${workspaceFolder}/libs/SDL/include"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:\\MinGW\\bin\\g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
